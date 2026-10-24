@@ -1,6 +1,6 @@
 # Decoding the Drivers of DOC
 
-<h1>Shaleen Bhattacharya<sup>1, 2</sup>, Ryan Jung<sup>1*,2</sup>, Abigail Whittington<sup>2</sup>, Nilotpal Ghosh<sup>2</sup>, Cedric Fichot<sup>2</sup></h1>
+<h2>Shaleen Bhattacharya<sup>1, 2</sup>, Ryan Jung<sup>1*,2</sup>, Abigail Whittington<sup>2</sup>, Nilotpal Ghosh<sup>2</sup>, Cedric Fichot<sup>2</sup></h2>
 
 <p><sup>1</sup>Chattahoochee High School, Johns Creek, GA; <sup>1*</sup>Orange County School of the Arts, Santa Ana, CA; <sup>2</sup>Boston University, Boston, MA</p>
 
